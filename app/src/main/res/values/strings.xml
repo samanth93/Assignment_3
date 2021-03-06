@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment_3</string>
+    <string name="tv_a_main_one">Candidate 1:</string>
+    <string name="tv_a_main_two">Candidate 2:</string>
+    <string name="tv_a_main_three">Candidate 3:</string>
+    <string name="b_a_main_three">Go to Vote Page</string>
+    <string name="tv_a_two_one">Vote Please</string>
+    <string name="tv_a_two_two">Name:</string>
+    <string name="tv_a_two_three">ID:</string>
+    <string name="pt_a_two_one">write your name</string>
+    <string name="pt_a_two_two">write your ID</string>
+    <string name="tb_a_two_one_accept">ACCEPT</string>
+    <string name="tb_a_two_one_reject">REJECT</string>
+    <string name="b_a_two_one">VOTE</string>
+    <string-array name ="sp_a_two_one">
+        <item>choose candidate</item>
+        <item>candidate 1</item>
+        <item>candidate 2</item>
+        <item>candidate 3</item>
+    </string-array>
+</resources>
