@@ -42,7 +42,7 @@ public class Activity2 extends AppCompatActivity{
 //            for(int i=0;i<voteList.size();i++){
 //                Log.d("Main ID",""+voteList.get(i).getId()+"");
 ////                if (voteList.get(i).getId().equals(id.getText().toString())) {
-////
+////                condition
 ////                }
 //            }
             name.setError("at least 3 characters");
